@@ -1,1 +1,1 @@
-print("First using git with R")
+print("Hello")
